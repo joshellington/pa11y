@@ -39,7 +39,7 @@
     "pa11y-reporter-cli": "^2.0.0",
     "pa11y-reporter-csv": "^2.0.0",
     "pa11y-reporter-json": "^2.0.0",
-    "pa11y-runner-axe": "^2.0.0",
+    "pa11y-runner-axe": "github:joshellington/pa11y-runner-axe#master",
     "pa11y-runner-htmlcs": "^2.0.0",
     "puppeteer": "^2.1.1",
     "semver": "^5.7.1"
